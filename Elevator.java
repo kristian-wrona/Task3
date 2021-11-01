@@ -9,7 +9,7 @@ public class Elevator{
 	{
 		this.dest_Floor=dest_floor;
 	if(dest_floor<0|| dest_floor>10) {
-		System.out.println("Wrong floor9");
+		System.out.println("Wrong floor");
 	}
 	else {
 		
